@@ -1,0 +1,11 @@
+03/11/2024 01:34:30 - INFO - __main__ -   ===========================================================================
+03/11/2024 01:34:30 - INFO - __main__ -   Host dgx1-1
+03/11/2024 01:34:30 - INFO - __main__ -   logging to:
+03/11/2024 01:34:30 - INFO - __main__ -   output_cali/samples/2024-03-11-01-34-30
+03/11/2024 01:34:30 - INFO - __main__ -   ===========================================================================
+03/11/2024 01:34:34 - INFO - __main__ -   Loading checkpoint /raid/akshay/ashutosh/Diff-Pruning/run/finetuned/ddpm_cifar10_pruned_post_training/pruned/unet_ema_pruned.pth
+03/11/2024 01:34:34 - INFO - __main__ -   Sampling data from 20 timesteps for calibration
+03/11/2024 01:34:40 - INFO - qdiff.utils -   Selected 20 steps from 100 sampling steps
+03/11/2024 01:34:40 - INFO - __main__ -   Calibration data shape: torch.Size([5120, 3, 32, 32]) torch.Size([5120])
+03/11/2024 01:34:40 - INFO - __main__ -   Initializing weight quantization parameters
+03/11/2024 01:34:48 - INFO - qdiff.quant_layer -   split at 1.0!

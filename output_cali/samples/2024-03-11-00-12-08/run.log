@@ -1,0 +1,6 @@
+03/11/2024 00:12:08 - INFO - __main__ -   ===========================================================================
+03/11/2024 00:12:08 - INFO - __main__ -   Host dgx1-1
+03/11/2024 00:12:08 - INFO - __main__ -   logging to:
+03/11/2024 00:12:08 - INFO - __main__ -   output_cali/samples/2024-03-11-00-12-08
+03/11/2024 00:12:08 - INFO - __main__ -   ===========================================================================
+03/11/2024 00:12:11 - INFO - __main__ -   Loading checkpoint /raid/akshay/ashutosh/Diff-Pruning/run/finetuned/ddpm_cifar10_pruned_post_training/pruned/unet_ema_pruned.pth
